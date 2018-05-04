@@ -1,0 +1,3 @@
+[submodule "submodules/data"]
+	path = submodules/data
+	url = https://github.com/briqInstitute/altruism_data
